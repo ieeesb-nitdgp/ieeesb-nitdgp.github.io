@@ -1,4 +1,4 @@
 # IEEE SB NIT Durgapur Homepage 
 
 - Build with react
-- Backend with DRF
+- [Events API](https://ieeesbnitdgp-api.herokuapp.com/api/) - using drf.
