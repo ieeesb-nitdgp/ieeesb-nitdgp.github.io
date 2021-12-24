@@ -1,3 +1,4 @@
-# IEEE SB NIT DURGAPUR MAIN SITE 
+# IEEE SB NIT Durgapur Homepage 
 
 - Build with react
+- Backend with DRF
